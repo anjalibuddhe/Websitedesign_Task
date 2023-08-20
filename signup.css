@@ -1,0 +1,81 @@
+﻿#register
+{
+    margin-left:40%;
+}
+#signin{
+    margin-left:40%;
+}
+/*aboutus*/
+.image-aboutus-banner {
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("https://images.pexels.com/photos/673649/pexels-photo-673649.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    padding-top: 110px;
+    padding-bottom: 110px;
+}
+
+.image-aboutus-sm-banner {
+    background: linear-gradient(rgba(0,0,0,.7), rgba(0,0,0,.7)), url("https://images.pexels.com/photos/631008/pexels-photo-631008.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+/*home*/
+.btn a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.nav1 {
+    background-color: #655959;
+}
+
+.nav1 ul li a {
+    color: #fff;
+    font-size: larger;
+}
+
+.footer {
+    background-color: #141212;
+    color: #fff;
+}
+
+    .footer ul li a {
+        color: #fff;
+    }
+
+.fa {
+    margin: 1%;
+}
+
+/*aboutus*/
+.aboutus{
+    margin-top:2%;
+}
+
+/*mensShop*/
+
+.slider2{
+    margin:2% 0;
+}
+.brand {
+    background-color: #17a2b8;
+    height: 24rem;
+    margin-bottom: 3rem;
+}
+#topbrand{
+    font-weight:bold;
+    font-size:2rem;
+    margin-top:2rem;
+}
+
+/*womenbrand*/
+#womenbrand {
+    background-color: #6e99c7;
+}
